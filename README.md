@@ -1,4 +1,4 @@
-# ECShare V.1.0 will include 
+# ECShare V.1.0 will includes 
 1.Wifi Hotspot service
     - Provide DHCP
     - get Connected Devides information and bandwidth usage
